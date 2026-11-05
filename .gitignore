@@ -1,0 +1,5 @@
+mtb_shared/
+**/bsps/
+**/deps/
+**/images/
+**/libs/
